@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pruki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pruki\\.nuget\\packages"
+    ]
+  }
+}
